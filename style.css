@@ -219,7 +219,7 @@ nav ul li a:hover::after {
     height: auto;
     border-radius: 80%;
     object-fit: cover;
-    max-height: 200px;
+    max-height: 199px;
 }
 .skillimgcenter {
     display: flex;
